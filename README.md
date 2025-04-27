@@ -43,7 +43,7 @@ This project explores a synthetic COVID-19 dataset to demonstrate basic data ana
 
 ## 📈 Example Outputs
 
-*(You can later add sample charts or screenshots here if you want!)*
+*(In progress)*
 
 ## 📋 License
 
